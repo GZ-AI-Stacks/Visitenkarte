@@ -2,7 +2,7 @@
   "name": "GZ-AI.-Stacks Visitenkarte",
   "short_name": "GZ-AI. Karte",
   "description": "Digitale Visitenkarte von GZ-AI.-Stacks",
-  "start_url": "./visitenkarte.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#00ffff",
